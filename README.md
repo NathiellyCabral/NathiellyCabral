@@ -12,8 +12,10 @@ Sobre mim
 
 Tecnologias
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 "Portugol" (https://img.shields.io/badge/Portugol-555555?style=flat-square)
 
 Objetivo
