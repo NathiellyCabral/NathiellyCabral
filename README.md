@@ -1,18 +1,25 @@
-## Hi there 👋
+## SEJA BEM VINDO
 
-Olá! Eu sou estudante de programação!
-🖥️ Atualmente estou aprendendo programação.
+Olá! Eu sou estudante de programação 👋
 
-🐍 Estudando Python.
+Sobre mim
 
-📚Tenho conhecimento de programação e Portugol.
+- 💻 Estudante de Desenvolvimento de Sistemas.
+- 🐍 Atualmente aprendendo Python.
+- 📚 Estudando lógica de programação.
+- 🚀 Desenvolvendo meus primeiros projetos.
+- 🎯 Buscando evoluir na área de tecnologia.
 
-🚀Meu objetivo é me tornar uma desenvolvedora de software.
+Tecnologias
 
-TECNOLOGIA QUE ESTOU APRENDENDO
-•Python
-•Portugol
-•Logica de programação
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+"Portugol" (https://img.shields.io/badge/Portugol-555555?style=flat-square)
 
-Meu objetivo
-Aprender, praticar e desenvolver novos projetos todos os dias!
+Objetivo
+
+Aprender, praticar e transformar ideias em projetos.
+
+---
+
+Em constante aprendizado. 💜
