@@ -11,12 +11,11 @@ Sobre mim
 - 🎯 Buscando evoluir na área de tecnologia.
 
 Tecnologias
-
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
-
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-"Portugol" (https://img.shields.io/badge/Portugol-555555?style=flat-square)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+  <img src="https://img.shields.io/badge/Portugol-555555?style=for-the-badge" height="30"/>
+</p>
 
 Objetivo
 
