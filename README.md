@@ -18,12 +18,13 @@
 
 ### 🛠️ Tecnologias
 
+<h2 align="left">Tecnologias</h2>
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python,github&theme=dark" height="50" />
+  <img src="https://img.shields.io/badge/Portugol-6A0DAD?style=for-the-badge&logoColor=white" height="28"/>
 </p>
+  
 
 ### 📊 GitHub Stats
 
