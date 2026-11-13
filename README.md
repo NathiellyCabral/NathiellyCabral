@@ -16,7 +16,6 @@
 - 💻 Praticando lógica de programação com Portugol.
 - 🚀 Sempre buscando aprender coisas novas.
 
-### 🛠️ Tecnologias
 
 <h2 align="left">Tecnologias</h2>
 
@@ -24,5 +23,8 @@
   <img src="https://skillicons.dev/icons?i=python,github&theme=dark" height="50" />
   <img src="https://img.shields.io/badge/Portugol-6A0DAD?style=for-the-badge&logoColor=white" height="28"/>
 </p>
-  
+
+## 🐍 Minhas contribuições
+
+![Snake animation](https://raw.githubusercontent.com/nathiellycabral/nathiellycabral/output/github-contribution-grid-snake.svg)
 
