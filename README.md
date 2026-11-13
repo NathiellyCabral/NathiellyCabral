@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**NathiellyCabral/NathiellyCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou estudante de programação!
+🖥️ Atualmente estou aprendendo programação.
 
-Here are some ideas to get you started:
+🐍 Estudando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚Tenho conhecimento de programação e Portugol.
+
+🚀Meu objetivo é me tornar uma desenvolvedora de software.
+
+TECNOLOGIA QUE ESTOU APRENDENDO
+•Python
+•Portugol
+•Logica de programação
+
+Meu objetivo
+Aprender, praticar e desenvolver novos projetos todos os dias!
